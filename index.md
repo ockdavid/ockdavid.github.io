@@ -2,7 +2,7 @@
 
 ---
 
-### [AI-Powered Healthy Recipes with Chat-GPT](https://chef-v2.streamlit.app/)
+### AI-Powered Healthy Recipes with Chat-GPT
 
 NutriBot is a cutting-edge culinary companion that crafts nutritious recipes from user-specified ingredients, or suggests pre-defined healthy dishes, thanks to its **AI-powered** capabilities.
 
@@ -12,7 +12,7 @@ NutriBot is a cutting-edge culinary companion that crafts nutritious recipes fro
 
 ---
 
-### [Word Cloud Generator for WhatsApp Chats](https://ockdavid-wordparty-word-party-hlum6a.streamlit.app/)
+### Word Cloud Generator for WhatsApp Chats
 
 This app takes an exported .txt file of a chat from the WhatsApp application and generates a word cloud with the most frequently used words. It works for both personal and group conversations.
 
@@ -21,7 +21,7 @@ This app takes an exported .txt file of a chat from the WhatsApp application and
 
 ---
 
-### [Sentiment Analysis for WhatsApp Chats](https://github.com/ockdavid/Whatsapp_Sentiment_Analysis)
+### Sentiment Analysis for WhatsApp Chats
 
 This code imports a .txt file of a chat exported from the WhatsApp application and performs sentiment analysis on the comments made by individuals, indicating whether they are positive or negative. Additionally, it rates the positivity or negativity of the comment on a scale from 0 to 1. You can review the code at the following link.
 
