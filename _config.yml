@@ -1,0 +1,15 @@
+title: David Jair Landeo Vargas # your name (or website title) here
+logo: "/images/DSC_3770.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Master's degree student of Big Data and Artificial IntelligenceSolutions with a passion for data engineering and data analysis. 
+  Experienced in building projects using Python, and eager tocontinue developing his skills and sharing his expertise within acompany.
+  I'm proactive, adaptable, committed, a team player, and possessleadership skills. 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
