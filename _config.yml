@@ -1,11 +1,11 @@
-title: David Jair Landeo Vargas # your name (or website title) here
+title: *David *Jair *Landeo *Vargas # your name (or website title) here
 logo: "/images/DSC_3770.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Engineer with 1 year of experience in ETL, Web Scraping and Scripting with a master's degree in Big Data and Artificial Intelligence Solucions. 
   <br><br>
   I'm proactive, adaptable, committed, a team player, and possessleadership skills.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/david-landeo/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
