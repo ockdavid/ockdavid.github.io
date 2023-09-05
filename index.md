@@ -7,7 +7,7 @@
 NutriBot is a cutting-edge culinary companion that crafts nutritious recipes from user-specified ingredients, or suggests pre-defined healthy dishes, thanks to its AI-powered capabilities.
 
 [View app on Streamlit](https://chef-v2.streamlit.app/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/healthychef.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
