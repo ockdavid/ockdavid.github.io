@@ -9,7 +9,6 @@ NutriBot is a cutting-edge culinary companion that crafts nutritious recipes fro
 [View app on Streamlit](https://chef-v2.streamlit.app/)
 
 <img src="images/chef_gif.gif?raw=true"/>
-
 ---
 
 ### Word Cloud Generator for WhatsApp Chats
