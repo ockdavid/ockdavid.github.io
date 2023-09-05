@@ -21,9 +21,9 @@ This app takes an exported .txt file of a chat from the WhatsApp application and
 
 ---
 
-### [Word Cloud Generator for WhatsApp Chats](https://ockdavid-wordparty-word-party-hlum6a.streamlit.app/)
+### [Sentiment Analysis for WhatsApp Chats](https://github.com/ockdavid/Whatsapp_Sentiment_Analysis)
 
-This app takes an exported .txt file of a chat from the WhatsApp application and generates a word cloud with the most frequently used words. It works for both personal and group conversations.
+This code imports a .txt file of a chat exported from the WhatsApp application and performs sentiment analysis on the comments made by individuals, indicating whether they are positive or negative. Additionally, it rates the positivity or negativity of the comment on a scale from 0 to 1. You can review the code at the following link.
 
-[View app on Streamlit](https://ockdavid-wordparty-word-party-hlum6a.streamlit.app/)
+[View code](https://github.com/ockdavid/Whatsapp_Sentiment_Analysis)
 
