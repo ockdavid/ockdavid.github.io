@@ -4,7 +4,8 @@
 
 ### Category Name 1 11 
 
-[Project 1 Title](/sample_page)
+[AI-Powered Healthy Recipes with Chat-GPT](/sample_page)
+NutriBot is a cutting-edge culinary companion that crafts nutritious recipes from user-specified ingredients, or suggests pre-defined healthy dishes, thanks to its AI-powered capabilities.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
