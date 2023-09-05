@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 11 
+### [AI-Powered Healthy Recipes with Chat-GPT](https://chef-v2.streamlit.app/)
 
-[AI-Powered Healthy Recipes with Chat-GPT](/sample_page)
+[Link](/sample_page)
 NutriBot is a cutting-edge culinary companion that crafts nutritious recipes from user-specified ingredients, or suggests pre-defined healthy dishes, thanks to its AI-powered capabilities.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
