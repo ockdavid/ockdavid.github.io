@@ -11,14 +11,14 @@ NutriBot is a cutting-edge culinary companion that crafts nutritious recipes fro
 <img src="images/chef_gif.gif?raw=true"/>
 ---
 
-### Word Cloud Generator for WhatsApp Chats
+### Word Cloud Generator for WhatsApp Chats XXXXXX
 
 This app takes an exported .txt file of a chat from the WhatsApp application and generates a word cloud with the most frequently used words. It works for both personal and group conversations.
 
 [View app on Streamlit](https://ockdavid-wordparty-word-party-hlum6a.streamlit.app/)
 
-<img src="images/wordcloud1.png?raw=true"/>
-<img src="images/wordcloud4.png?raw=true"/>
+<img src="images/wordcloud1.png?raw=true" width = "100"/>
+<img src="images/wordcloud4.png?raw=true" width = "100"/>
 
 ---
 
