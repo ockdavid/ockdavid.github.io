@@ -17,8 +17,8 @@ This app takes an exported .txt file of a chat from the WhatsApp application and
 
 [View app on Streamlit](https://ockdavid-wordparty-word-party-hlum6a.streamlit.app/)
 
-<img src="images/wordcloud1.png?raw=true" width = "100"/>
-<img src="images/wordcloud4.png?raw=true" width = "100"/>
+<img src="images/wordcloud1.png?raw=true" width = "250"/>
+<img src="images/wordcloud4.png?raw=true" width = "250"/>
 
 ---
 
