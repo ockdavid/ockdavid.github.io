@@ -39,3 +39,11 @@ This project performs an analysis of room prices per square meter in Spain and L
 [View code](https://github.com/ockdavid/Web-Scraping-Barcelona-vs-London-shared-rooms/tree/main)
 
 <img src="images/webscraping.png?raw=true" />
+
+---
+
+### Predicting Car Prices Using Regression Analysis
+
+This project uses the dataset of second-hand car prices and performs prediction using various regression models to compare and obtain the best result.
+
+[View code](https://github.com/ockdavid/Car_price_prediction/tree/main)
