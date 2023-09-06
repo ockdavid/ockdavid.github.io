@@ -30,3 +30,12 @@ This code imports a .txt file of a chat exported from the WhatsApp application a
 
 <img src="images/sentimentanalysis.png?raw=true" />
 
+---
+
+### Web Scraping Analysis: Apartment Room Prices in Spain and London
+
+This project performs an analysis of room prices per square meter in Spain and London. It obtains room information through web scraping from Badi and Rightmove to calculate the price averages.
+
+[View code](https://github.com/ockdavid/Web-Scraping-Barcelona-vs-London-shared-rooms/tree/main)
+
+<img src="images/webscraping.png?raw=true" />
