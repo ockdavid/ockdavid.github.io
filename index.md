@@ -28,3 +28,5 @@ This code imports a .txt file of a chat exported from the WhatsApp application a
 
 [View code](https://github.com/ockdavid/Whatsapp_Sentiment_Analysis)
 
+<img src="images/sentimentanalysis.png?raw=true" />
+
